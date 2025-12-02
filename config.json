@@ -15,7 +15,7 @@
               "enabled":"1"
           },
           "CB01":{
-              "url": "https://cb01net.blog",
+              "url": "https://cb01net.cyou",
               "CB_PROXY":"0",
               "CB_ForwardProxy":"0",
               "MX_ForwardProxy":"0",
@@ -23,7 +23,7 @@
               "enabled":"1"
           },
           "Guardaserie":{
-              "url": "https://guardaserietv.cfd",
+              "url": "https://guardaserietv.club",
               "enabled":"1",
               "GS_ForwardProxy":"0",
               "GS_PROXY":"0"
@@ -35,7 +35,7 @@
               "GH_PROXY":"0"
           },
           "Eurostreaming":{
-            "url": "https://eurostreamings.pics",
+            "url": "https://eurostreamings.mom",
             "enabled": "1",
             "ES_ForwardProxy": "0",
             "ES_PROXY": "0"
